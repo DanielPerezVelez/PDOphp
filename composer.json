@@ -1,0 +1,15 @@
+{
+    "name": "xelanid/pdophp",
+    "autoload": {
+        "psr-4": {
+            "Xelanid\\Pdophp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanielPerezVelez",
+            "email": "l18530435@cancun.tecnm.mx"
+        }
+    ],
+    "require": {}
+}
